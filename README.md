@@ -21,7 +21,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance:- Involves providing ongoing support, including updates, and enhancements to the software after deployment
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall Methodology: It is a sequential approach with distinct phases like requirements and design, which flow downwards like a waterfall. Teams cannot advance from one phase of the SDLCC to the next until the current phase is complete
+Waterfall Methodology: It is a sequential approach with distinct phases like requirements and design, which flow downwards like a waterfall. Teams cannot advance from one phase of the SDLC to the next until the current phase is complete
 Examples: Manufacturing a complex machinery component
 Agile methodology: It is an iterative and incremental approach focused on flexibility, collaboration and responding to change. Agile teams complete one sprint before moving into the next one. Requirements can change at any time in the project based on changing business needs or customer feedback
 Example: Developing a new mobile app
